@@ -7,18 +7,17 @@
 <ul>
 <li class="active"><a href="index.php">Home</a></li>
 <li><a href="gallery.php">Gallery</a></li>
-<li><a href="service.html">Service<i class="fa fa-caret-down"></i></a>
+<li><a href="service.php">Service<i class="fa fa-caret-down"></i></a>
 <ul>
 <li><a href="service.html">Service</a></li>
-<li><a href="service-details.html">Service Details</a></li>
+<li><a href="service.php">Service Details</a></li>
 </ul>
 </li>
 <li><a href="about.php">About</a></li>
 <!-- <li><a href="employees.html">employees</a></li> -->
-<li><a href="blog.html">Blog<i class="fa fa-caret-down"></i></a>
+
 <ul>
-<li><a href="blog.html">Blog</a></li>
-<li><a href="blog-details.html">Blog Details</a></li>
+
 </ul>
 </li>
 <li><a href="contact.php">Contact Us</a></li>
