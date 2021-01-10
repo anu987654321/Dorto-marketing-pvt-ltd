@@ -300,7 +300,6 @@
 <div class="footer-wedget-three">
 <h2>Contact us</h2>
 <p>Dorto marketing Pvt. Ltd.-DORTO has been designed to be user-friendly and customer-centric for ease of its users to book our services.</p>
-	
 <ul>
 <li><i class="fa fa-location-arrow"></i>Swastik apartment , Gulmohar park road , Lower Bradhwan compound Lalpur , Ranchi 834001 Jharkhand</li>
 <li><i class="fa fa-envelope-o"></i><a href= "mailto: Vivek5929@gmail.com" style="color: white;">Vivek5929@gmail.com</a><!-- <a href="https://themeearth.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="90d9fef6ffd0e9ffe5e2f4fffdf1f9febef3fffd">[email&#160;protected]</a> --></li>
